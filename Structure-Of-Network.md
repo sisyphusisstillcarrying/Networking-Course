@@ -8,7 +8,9 @@
 - In this section we will learn the models that are used in today's networking technology and their layers.
 
 
-## OSI Model
+## OSI Model (imp)
+
+![OSI-7-layers](https://github.com/user-attachments/assets/d595b82d-1a79-4207-a2cc-9f91883fcc02)
 
 - It stands for Open Systems Interconnection Modal.
 - There are 7 layers in this model:
