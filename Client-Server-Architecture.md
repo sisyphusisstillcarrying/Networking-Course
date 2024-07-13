@@ -2,6 +2,8 @@
   <h1>Client Server Architecture</h1>
 </div>
 
+
+
 ## Client Server Architecture
 
 - The Client-Server Architecture tells you about Servers, Connection between a client and the server and how it takes place.
