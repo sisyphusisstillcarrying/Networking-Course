@@ -25,3 +25,13 @@
 
 
 ## History
+
+- very first network internet
+- ARPA net (MIT, Standford, UCLA, Utah) [TCP protocol] -> changed to TCPIP over time
+- WW2
+- WWW was created to store documents and allow access to all these documents through Links and it is a collection of URL and Pages.
+- There was no search engine. you can only use hyperlinks.
+- Later Yahoo was developed.
+
+- Who writes the rules and regulations on how it should be written. It us written and run by Internet Society. otherwise everone will have differenent set of rules and regulations and therefore making it almost impossible to communicate between different networks whoch follow different rules and regulations.
+- Internet Society (ISOC): The Internet Society supports and promotes the development of the internet as a global technical infrastructure, a resource to enrich people's lives, and a force for good in society. It provides organizational support for the IETF.
